@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["DOM", "ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+
+    "types": ["vitest/globals"],
+
+    "jsx": "react-jsx",
+    "strict": true
+  }
+}
